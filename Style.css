@@ -108,14 +108,14 @@ body {
     font-weight: bold;
 }
 
-/*.correct {
+.correct {
     color: green;
 }
 
 .incorrect {
     color: red;
     text-decoration: underline;
-}*/
+}
 
 .instructions {
     margin: 1rem;
